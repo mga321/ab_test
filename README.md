@@ -20,4 +20,4 @@ The project contains 3 parts:
 
 # The Data:
 
-The datasets ab_data.csv and countries.csv were both provided directly in .csv format.
+The datasets ab_data.csv and countries.csv were both provided directly in csv format.
