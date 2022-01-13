@@ -1,8 +1,3 @@
-# Programming Environment
-- Python version 3.7
-- Install requirements.txt file
-
-
 # Name:
 
 Website Conversion Rate A/B Test
@@ -16,6 +11,11 @@ The project contains 3 parts:
 - **Part 1:** Probability and Cleaning the Data
 - **Part 2:** A/B Test
 - **Part 3:** A Regression Approach
+
+
+# Programming Environment
+- Python version 3.7
+- Install requirements.txt file
 
 
 # The Data:
